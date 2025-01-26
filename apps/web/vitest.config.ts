@@ -16,6 +16,7 @@ export default defineConfig({
       '@pancakeswap/uikit': r('../../packages/uikit/src'),
       '@pancakeswap/localization': r('../../packages/localization/src'),
       '@pancakeswap/chains': r('../../packages/chains/src'),
+      '@pancakeswap/multical': r('../../packages/multical/src'),
     },
   },
   test: {

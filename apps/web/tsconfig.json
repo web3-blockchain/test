@@ -12,7 +12,8 @@
       "*": ["./src/*"],
       "@pancakeswap/uikit": ["../../packages/uikit/src/index.ts"],
       "@pancakeswap/uikit/*": ["../../packages/uikit/src/*"],
-      "@pancakeswap/chains": ["../../packages/chains/src/*"]
+      "@pancakeswap/chains": ["../../packages/chains/src/*"],
+      "@pancakeswap/multicall": ["../../packages/multicall/src/*"]
     }
   },
   "exclude": ["**/node_modules", "**/.*/", "**/config/abi/types/", "**/abis/types/*.ts"],
