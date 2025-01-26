@@ -65,6 +65,7 @@ const config = {
     '@pancakeswap/farms',
     '@pancakeswap/position-managers',
     '@pancakeswap/localization',
+    '@pancakeswap/chains',
     '@pancakeswap/hooks',
     '@pancakeswap/utils',
     '@pancakeswap/widgets-internal',
