@@ -2,9 +2,6 @@ packages:
   - 'packages/*'
   - 'packages/routing-sdk/**'
   - 'apps/*'
-  - 'apis/*'
-  - 'examples/*'
-  - 'scripts'
 
 catalog:
   viem: ^2.21.22
